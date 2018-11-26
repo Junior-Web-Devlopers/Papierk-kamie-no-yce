@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.left_top {
+
+    float: left;
+}
+
+.right_top {
+
+    float: right;
+}
+
+.left_bottom {
+
+    float: left;
+}
+
+.right_bottom {
+
+    float: right;
+}
+
+.first {
+
+    float: right;
+}
+
+section {}
+
+section img {
+
+    height: 100px;
+    width: 200px;
+}
+
+i {
+
+    font-size: 50px;
+}
